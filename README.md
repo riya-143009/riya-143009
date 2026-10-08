@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there 👋I'm Riya
 
+- 💻 First-semester B.Tech CS (IoT) undergrad @ Alliance University
+- 🌱 Currently sharpening my skills in **Java** and **Data Structures**
+- ⚡ Fun fact: When I'm not coding, you'll find me on capturing moments.
+
+### Tech Stack
+- **Languages:** Java, Python, C
+- **Areas of Interest:** IoT Systems, Software Engineering
 <!--
 **riya-143009/riya-143009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
